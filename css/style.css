@@ -1,0 +1,25 @@
+
+span{
+    width: 90%;
+    font-size: 190px;
+    line-height: 3;
+    text-align: center;
+    margin: 50px;
+    color: #fff;
+}
+.mydiv h1{
+font-family: sans-serif;
+color:  #fff;
+font-size:70px;
+    text-align: center;
+}
+.mydiv{
+    border: 5px solid rgb(196, 136, 136);
+    border-radius: 10px;
+    background-color: black;
+
+} 
+@media (max-width: 720px) {
+    
+    
+}
